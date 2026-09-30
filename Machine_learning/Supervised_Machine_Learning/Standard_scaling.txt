@@ -1,0 +1,32 @@
+Why we use Standard Scaling
+
+In the dataset attributes can have small values and the attributes have large values
+
+So many algorithms pay more attention to the attributes that has large values
+
+So the prediction may alter
+
+In that case we use standard Scaling
+
+After performing the standard scaling the values of the dependent and independent variables 
+are on comparable so, the model can predict with small error score
+
+
+Without Scaling
+
+Age     = 25
+Salary  = 500000
+
+
+With Scaling
+
+Age     = -0.8
+Salary  = -0.5
+
+NOw they can be on comparable scale
+
+We perform
+fit to learn parameters like mean and std form the dataset  #learns the mean ,std and stores in scaler
+transform to apply the learned parameters to the dataset    #aplly those to X_train
+
+fit_transform -> learn + apply the leaned parameters

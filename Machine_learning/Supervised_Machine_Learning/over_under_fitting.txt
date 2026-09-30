@@ -1,0 +1,58 @@
+What is train dan test data
+
+Train data - Seen data , the data that the model practiced by...
+Test data - Unseen data , the data that the model deosn't practiced by...
+
+
+
+
+
+Underfitting
+------------------
+
+The model is too simple to learn the importants patterns in the data
+
+which means it perform poorly on both training data and test data
+
+EX:
+Train accuracy=65%          #High bias
+Test accuracy=63%           #High variance
+
+Perform poorly on both
+
+
+Overfitting
+--------------
+
+The model learns the data too specifically that it learns noise and unnecessary details aslo
+
+It performs well on training data and poorly on test data
+
+Ex:
+Training accuracy=90%       #Low bias
+Test accuracy=69%           #High variance
+
+
+
+
+Good model-->Model learns patterns from data and perform well on unseen data
+
+Ex:
+Test accuracy=90%
+Train accuracy=89%
+
+
+
+
+
+Performance metrics 
+-------------------------------
+Performance metrics are mathematical measures that evaluate the accuracy of the model
+
+Common metrics are 
+
+1->MAE -Mean absolute error             - Robust to outliers
+2->MSE -Mean squared error              -Not so robust to outliers
+3->RMSE -Root mean squared error
+
+

@@ -1,0 +1,70 @@
+Linear Regressiion
+
+Linear Regression finds the best-fit line that minimizes the sum of squared errors 
+between actual and predicted values.
+
+Formula:
+            y^​=β0​+β1​x1​+β2​x2​+⋯+βn​x
+
+Goal: To minimize the mse
+
+
+Ridge Regression
+---------------------------------------------
+
+Ridge Regression is Linear Regression with an L2 penalty added to reduce overfitting.
+
+It shrinks coefficients toward zero but rarely makes them exactly zero.
+
+    it adds the penalty term
+
+    λ∑βj2​
+
+
+Characteristics
+
+✅ Reduces overfitting
+
+✅ Handles multicollinearity
+
+❌ Does not perform feature selection
+
+
+Lasso Regression
+---------------------------------------------------------
+
+Lasso Regression adds an L1 penalty.
+
+It can force some coefficients to become exactly zero.
+
+            it adds the extra penalty term
+
+            λ∑∣βj​∣
+
+
+Characteristics
+
+✅ Reduces overfitting
+
+✅ Performs feature selection
+
+✅ Removes unimportant features
+
+
+
+
+Elastic Net Regression
+--------------------------------------------
+Definition
+
+Elastic Net combines both Ridge (L2) and Lasso (L1) penalties
+
+    λ∑βj2​ +  λ∑∣βj​∣
+
+Characteristics
+
+✅ Feature selection (like Lasso)
+
+✅ Handles multicollinearity (like Ridge)
+
+✅ Useful when there are many correlated features

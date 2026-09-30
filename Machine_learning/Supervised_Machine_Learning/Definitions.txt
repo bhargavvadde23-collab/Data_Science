@@ -1,0 +1,85 @@
+Artificial intelligence
+-------------------------------
+
+Ai is a branch of computer science that aims to create systems that are capable of doing tasks
+without intervention of human intelligence.
+
+Ex-Self driving cars , Chatbots , assistants etc
+
+
+Machine Learning
+-----------------------
+
+Machine learning is a branch of Artificial intelligence that allows computers  to learn pattens
+from the data and improve their performance without being explicitly programmed.
+
+
+Deep learning
+-------------------
+
+Deep learning is a subset of machine learning that uses multilayered artificial neural networks
+to automatically learn complex patterns from large amounts of data
+
+
+
+
+Data Science 
+-----------------
+
+DataScience is a field that uses statistics , programming , machine learning, and data analysis
+techniques to extract meaningful insights and knowledge from data
+
+So in short --
+Data Science is a field that uses ml algorithms , dl techniques to build a model
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+Machine learning is classified in two three types they are
+
+1)Supervised machine learning
+2)Unsupervised machine learning
+3)Reinforcement learning
+
+
+1)Supervised machine learning
+
+Supervised machine learning is a type of machine learning technique where the model trained 
+on labelled data , means both input and correct output are known
+
+Ex-Predicting house prices 
+Ex: house size, no. of rooms , Rent 
+
+->here the rent is depend on the house size and no.of rooms
+
+->so rent is dependent variable and house size and no.of rooms are independent
+
+->The Value is continuous
+
+
+Ex:Regression ,classification
+
+
+2)UnSupervised machine learning
+
+->IT is a type of machine learning technique where the model is trained on unlabelled data
+->means inputs are provided and no correct outputs are given
+
+->Main goal is to discover the hidden patterns from the data
+
+-Ex: K-means,hierarchical mean, dbscan,CLustering
+
+
+
+
+3)Reinforcement learning
+
+->It is a type of machine learning in which the user or agent interacts with the encironment
+and recieving the awards or penalties for its acitions
+
+Ex:Self driving cars,games etc...
+
+

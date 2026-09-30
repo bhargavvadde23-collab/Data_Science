@@ -1,0 +1,51 @@
+Order_ID,Date,Model,Storage_GB,Color,Price,Quantity,Region,Salesperson
+1001,2026-01-02,iPhone 15,128,Black,799,2,North,Ravi
+1002,2026-01-03,iPhone 15,256,Blue,899,1,South,Priya
+1003,2026-01-04,iPhone 15 Pro,128,White,999,1,East,Arjun
+1004,2026-01-05,iPhone 15 Pro Max,256,Natural,1199,1,West,Neha
+1005,2026-01-06,iPhone 15,128,Black,799,3,North,Ravi
+1006,2026-01-07,iPhone 15 Plus,256,Pink,999,1,South,Priya
+1007,2026-01-08,iPhone 15 Pro,512,Black,1299,1,East,Arjun
+1008,2026-01-09,iPhone 15,128,Blue,799,2,West,Neha
+1009,2026-01-10,iPhone 15 Pro Max,512,White,1399,1,North,Ravi
+1010,2026-01-11,iPhone 15 Plus,128,Green,899,2,South,Priya
+1011,2026-01-12,iPhone 15,256,Black,899,1,East,Arjun
+1012,2026-01-13,iPhone 15 Pro,256,Natural,1099,1,West,Neha
+1013,2026-01-14,iPhone 15,128,Blue,799,2,North,Ravi
+1014,2026-01-15,iPhone 15 Pro Max,256,Black,1199,1,South,Priya
+1015,2026-01-16,iPhone 15 Plus,128,Pink,899,3,East,Arjun
+1016,2026-01-17,iPhone 15 Pro,512,White,1299,1,West,Neha
+1017,2026-01-18,iPhone 15,256,Green,899,2,North,Ravi
+1018,2026-01-19,iPhone 15 Plus,256,Blue,999,1,South,Priya
+1019,2026-01-20,iPhone 15 Pro Max,512,Natural,1399,1,East,Arjun
+1020,2026-01-21,iPhone 15,128,Black,799,2,West,Neha
+1021,2026-01-22,iPhone 15 Pro,256,White,1099,1,North,Ravi
+1022,2026-01-23,iPhone 15 Plus,128,Green,899,2,South,Priya
+1023,2026-01-24,iPhone 15,256,Blue,899,1,East,Arjun
+1024,2026-01-25,iPhone 15 Pro Max,256,Black,1199,2,West,Neha
+1025,2026-01-26,iPhone 15 Pro,128,Natural,999,1,North,Ravi
+1026,2026-01-27,iPhone 15,128,Black,799,3,South,Priya
+1027,2026-01-28,iPhone 15 Plus,256,Pink,999,1,East,Arjun
+1028,2026-01-29,iPhone 15 Pro Max,512,White,1399,1,West,Neha
+1029,2026-01-30,iPhone 15 Pro,256,Black,1099,2,North,Ravi
+1030,2026-01-31,iPhone 15,128,Blue,799,2,South,Priya
+1031,2026-02-01,iPhone 15 Plus,128,Green,899,1,East,Arjun
+1032,2026-02-02,iPhone 15 Pro,512,Natural,1299,1,West,Neha
+1033,2026-02-03,iPhone 15,256,Black,899,2,North,Ravi
+1034,2026-02-04,iPhone 15 Pro Max,256,White,1199,1,South,Priya
+1035,2026-02-05,iPhone 15,128,Blue,799,2,East,Arjun
+1036,2026-02-06,iPhone 15 Plus,256,Pink,999,1,West,Neha
+1037,2026-02-07,iPhone 15 Pro,128,Black,999,2,North,Ravi
+1038,2026-02-08,iPhone 15 Pro Max,512,Natural,1399,1,South,Priya
+1039,2026-02-09,iPhone 15,256,Green,899,1,East,Arjun
+1040,2026-02-10,iPhone 15 Plus,128,Blue,899,3,West,Neha
+1041,2026-02-11,iPhone 15 Pro,256,White,1099,1,North,Ravi
+1042,2026-02-12,iPhone 15,128,Black,799,2,South,Priya
+1043,2026-02-13,iPhone 15 Pro Max,256,Black,1199,1,East,Arjun
+1044,2026-02-14,iPhone 15 Plus,256,Green,999,2,West,Neha
+1045,2026-02-15,iPhone 15,256,Blue,899,1,North,Ravi
+1046,2026-02-16,iPhone 15 Pro,512,Natural,1299,1,South,Priya
+1047,2026-02-17,iPhone 15,128,Black,799,2,East,Arjun
+1048,2026-02-18,iPhone 15 Pro Max,512,White,1399,1,West,Neha
+1049,2026-02-19,iPhone 15 Plus,128,Pink,899,2,North,Ravi
+1050,2026-02-20,iPhone 15 Pro,256,Black,1099,1,South,Priya

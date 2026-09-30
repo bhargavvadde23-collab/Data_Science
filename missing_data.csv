@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Price,Stock,Rating,Discount,Sales
+P101,Laptop,Electronics,65000,25,4.5,10,120
+P102,Smartphone,Electronics,35000,40,4.3,,250
+P103,Tablet,Electronics,28000,,4.1,5,90
+P104,Smartwatch,Wearables,12000,60,,15,180
+P105,Headphones,Accessories,3000,100,4.0,20,
+P106,Bluetooth Speaker,Accessories,,80,4.4,10,140
+P107,Monitor,Electronics,18000,30,4.2,,75
+P108,Keyboard,Accessories,1500,,3.9,5,220
+P109,Mouse,Accessories,800,150,4.1,,300
+P110,Printer,Electronics,12000,20,4.0,10,
+P111,Router,Networking,2500,50,,5,110
+P112,External HDD,Storage,5000,35,4.3,15,95
+P113,SSD,Storage,7000,,4.7,,130
+P114,Webcam,Accessories,2500,45,4.0,10,85
+P115,Microphone,Accessories,,25,4.5,20,70
+P116,Projector,Electronics,45000,10,,15,40
+P117,Gaming Console,Gaming,50000,15,4.8,5,
+P118,Graphics Card,Components,60000,,4.9,10,35
+P119,RAM,Components,4000,120,4.4,,160
+P120,Power Bank,Accessories,1800,90,4.2,10,210

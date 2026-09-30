@@ -1,0 +1,32 @@
+
+to run the jupyter
+-->jupyter notebook 
+-->select file location to save
+
+
+Hey in windows you have already installed the python and added to path
+So ,now you just have to install the   "pip install jupyter notebook ipykernel" in your 
+VSCode Terminal  
+
+Inorder to execute the notebook cells 
+
+Step-1) -->Save the file as .ipynb
+
+Step-2) -->Select the python 3.10.12 environment
+
+Step-3) -->Simpy run the cell
+
+
+
+
+
+--->it is used to access the api.py file --(important)
+
+
+### Install Postman to build and operate rest api
+
+for windows just download the postman app and double click the 
+
+Postman-win64-x.x.x-Setup.exe  click next , next 
+
+then open windows and search for postman then click launch
